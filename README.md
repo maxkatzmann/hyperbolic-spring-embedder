@@ -5,7 +5,7 @@ tries to assign each vertex a hyperbolic coordinate such that adjacent vertices
 are placed close to each other, while non-adjacent vertices are positioned
 farther apart.  This is done by simulating physical forces between the vertices.
 
-For more details see our publication
+For more details see our publication: https://doi.org/10.4230/LIPIcs.SEA.2021.22
 > **Force-Directed Embedding of Scale-Free Networks in the Hyperbolic Plane**
 > by Thomas Bläsius, Tobias Friedrich, Maximilian Katzmann
 
